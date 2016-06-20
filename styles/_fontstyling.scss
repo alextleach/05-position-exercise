@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: $heading-green;
+  font-size: 25pt;
+}
+h3 {
+  color: $secondary-gray;
+  font-size: 20pt;
+  line-height: 22pt;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+ul {
+  list-style: square;
+  padding-left: $gutter;
+  padding-bottom: $gutter;
+}
+li {
+  color: $lightergray;
+  font-size: 20pt;
+}
+.underline {
+  color: $lightergray;
+  text-decoration: underline;
+}
+.underline span{
+  color: $linkcolor;
+}
+
+.fa {
+  font-size: 26pt;
+  color: $lightergray;
+  letter-spacing: 0.5rem;
+  vertical-align: middle;
+}
