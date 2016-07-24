@@ -4,12 +4,12 @@ body {
 
 h2 {
   color: $heading-green;
-  font-size: 25pt;
+  font-size: 2rem;
 }
 h3 {
   color: $secondary-gray;
-  font-size: 20pt;
-  line-height: 22pt;
+  font-size: 1.6rem;
+  line-height: 1.8rem;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -20,7 +20,7 @@ ul {
 }
 li {
   color: $lightergray;
-  font-size: 20pt;
+  font-size: 1.6rem;
 }
 .underline {
   color: $lightergray;
@@ -31,7 +31,7 @@ li {
 }
 
 .fa {
-  font-size: 26pt;
+  font-size: 2rem;
   color: $lightergray;
   letter-spacing: 0.5rem;
   vertical-align: middle;
